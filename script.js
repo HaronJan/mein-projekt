@@ -1,3 +1,3 @@
 function zeigeNachricht() {
-  alert("Hallo! Das ist JavaScript in Aktion.");
+  alert("Willkommen in der Zeit!");
 }
